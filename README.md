@@ -12,4 +12,7 @@ forms for credit/debit cards, forms for users authentications,etc. You should gi
 
 <h3>Examples of sections</h3>
 
-<img source='https://drive.google.com/uc?export=view&id=1OnthNyv5JcAJh-kmsQs0F4h1rlAjEj1W'>
+<img src='https://drive.google.com/uc?export=view&id=1OnthNyv5JcAJh-kmsQs0F4h1rlAjEj1W' width= '700px' height= '500px'>
+<img src='https://drive.google.com/uc?export=view&id=1ejeCafzb5mu9Fg28X8wTmfe64-a7MPnc' width= '700px' height= '500px'>
+<img src='https://drive.google.com/uc?export=view&id=1e9CxJq8cDXyL4n-Mweqx07Ay7WW-5iIO' width= '700px' height= '500px'>
+<img src='https://drive.google.com/uc?export=view&id=1hVdbdLnQ3CqflLY8HdtyS7Ur2T4w3P89' width= '700px' height= '500px'>
